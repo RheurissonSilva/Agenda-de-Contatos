@@ -1,6 +1,6 @@
 import flet as ft
 from contact_manager import ContactManager, PersonalContact, BusinessContact
-
+#
 class ContactManagerApp:
     def __init__(self):
         self.contact_manager = ContactManager()
